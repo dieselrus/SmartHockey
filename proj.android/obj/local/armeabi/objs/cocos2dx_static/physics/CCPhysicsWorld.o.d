@@ -1,0 +1,338 @@
+obj/local/armeabi/objs/cocos2dx_static/physics/CCPhysicsWorld.o: \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsWorld.cpp \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsWorld.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsSetting.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCDataVisitor.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccConfig.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformConfig.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformConfig.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCPlatformDefine.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/android/log.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/string \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccMacros.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCCommon.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCStdC.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/math.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/stdio.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/stdlib.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/alloca.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/strings.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/memory.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccConfig.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/functional \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/chipmunk.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/chipmunk_types.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpVect.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpBB.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpSpatialIndex.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpBody.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpShape.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpPolyShape.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpArbiter.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpConstraint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpPinJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpGearJoint.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpSpace.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsBody.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/vector \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsShape.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsContact.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsWorldInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/../CCPhysicsSetting.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsWorldInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/../CCPhysicsSetting.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsBodyInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsBodyInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsShapeInfo.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/map \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsShapeInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsContactInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsContactInfo.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsHelper.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/draw_nodes/CCDrawNode.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCNode.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCAffineTransform.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCArray.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/support/data_support/ccCArray.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCGL.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/shaders/ccGLStateCache.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/shaders/CCGLProgram.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/kazmath.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec2.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec3.h \
+ /Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/assert.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat3.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/utility.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/quaternion.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/plane.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/aabb.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/ray2.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/script_support/CCScriptSupport.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCTouch.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventTouch.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEvent.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventKeyboard.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCSet.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/set \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/list \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/CCProtocols.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccTypes.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/textures/CCTexture2D.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccTypes.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventDispatcher.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventListener.h \
+ /Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/memory \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsWorld.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/CCDirector.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCArray.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/label_nodes/CCLabelAtlas.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCAtlasNode.h \
+ /Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCNode.h
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsWorld.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsSetting.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCDataVisitor.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccConfig.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformConfig.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformConfig.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCPlatformDefine.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/android/log.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/string:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccMacros.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCCommon.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCStdC.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/math.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/stdio.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/stdlib.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/alloca.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/strings.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/memory.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccConfig.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/functional:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/chipmunk.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/chipmunk_types.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpVect.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpBB.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpSpatialIndex.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpBody.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpShape.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpPolyShape.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpArbiter.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpConstraint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpPinJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpGearJoint.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/../external/chipmunk/include/chipmunk/cpSpace.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsBody.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/vector:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsShape.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsContact.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsWorldInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/../CCPhysicsSetting.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsWorldInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/../CCPhysicsSetting.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsBodyInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsBodyInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsShapeInfo.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/map:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsShapeInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsContactInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/Box2D/CCPhysicsContactInfo.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/chipmunk/CCPhysicsHelper.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/draw_nodes/CCDrawNode.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCNode.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCAffineTransform.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCArray.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/support/data_support/ccCArray.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/android/CCGL.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/shaders/ccGLStateCache.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/shaders/CCGLProgram.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/kazmath.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec2.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec3.h:
+
+/Users/admin/devtools/android/ndk/platforms/android-14/arch-arm/usr/include/assert.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat3.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/utility.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/quaternion.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/plane.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/aabb.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/ray2.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/script_support/CCScriptSupport.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCTouch.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventTouch.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEvent.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventKeyboard.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCSet.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/set:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/list:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/CCProtocols.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccTypes.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/textures/CCTexture2D.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/include/ccTypes.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventDispatcher.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/event_dispatcher/CCEventListener.h:
+
+/Users/admin/devtools/android/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/memory:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/physics/CCPhysicsWorld.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/CCDirector.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCObject.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCGeometry.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/cocoa/CCArray.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/label_nodes/CCLabelAtlas.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCAtlasNode.h:
+
+/Users/admin/devtools/cocos2d-x/cocos2d-x-3.0alpha0/projects/SmartHockey/proj.android/../../../cocos2dx/base_nodes/CCNode.h:
